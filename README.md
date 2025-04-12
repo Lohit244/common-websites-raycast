@@ -6,10 +6,6 @@ Open Commonly visisted websites in default browser
 
 ## Steps to run/build
 
-+ In `src/` create a copy of the file `WebsitesExample.ts` with the name `Websites.ts`
-
-+ Populate the new file with your websites list
-
 + ```sh
   yarn install -D 
   yarn build
